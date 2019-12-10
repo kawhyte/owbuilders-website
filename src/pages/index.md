@@ -3,13 +3,10 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Architectural Designs
+  title: Jamaica's Trusted Architecture Company
   section_id: hero
   component: HeroBlock
-  content: |-
-    ### ![](/images/13.jpg)
-
-    ### If you can dream it, We can make it happen.
+  content: "### for Residential and Commercial Buildings"
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work
@@ -58,16 +55,6 @@ sections:
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
       interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
       vel posuere justo laoreet.
-- type: postsblock
-  template: postsblock
-  title: Latest from the Blog
-  section_id: latest-posts
-  component: PostsBlock
-  subtitle: An optional subtitle of the section
-  num_posts_displayed: 2
-  actions:
-  - label: View Blog
-    url: blog/index.html
 - type: contactblock
   template: contactblock
   title: Contact Us

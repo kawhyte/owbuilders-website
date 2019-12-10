@@ -23,10 +23,10 @@ fields:
   name: accent_color
   label: Accent Color
   description: The accent color of the theme.
-  default: pink
+  default: blue
   config:
     source:
-      type: custom
+      type: simple
     options:
     - pink
     - green

@@ -3,10 +3,10 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: If you can dream it, We can make it happen.
+  title: Home & Commercial Architectural Designs
   section_id: hero
   component: HeroBlock
-  content: 'Home & Commercial Designs | BluePrints | Contractors '
+  content: "### If you can dream it, We can make it happen."
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work

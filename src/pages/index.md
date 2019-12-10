@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Jamaica's Trusted Architecture Company
+  title: Architects & Remodelers
   section_id: hero
   component: HeroBlock
   content: "### for Residential and Commercial Buildings"

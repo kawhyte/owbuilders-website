@@ -1,20 +1,16 @@
 {
-  "title": "Stackbit Exto Theme",
+  "title": "OW Builders",
   "color_scheme": "light",
-  "accent_color": "pink",
+  "accent_color": "blue",
   "header": {
-    "title": "OWBuilders",
+    "title": "OW Builders",
     "has_nav": true
   },
   "footer": {
-    "content": "&copy; Stackbit-Exto. All rights reserved.",
+    "content": "&copy; OW Builders. All rights reserved.",
     "links": [
-      {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
-        "new_window": true
-      }
+
     ],
-    "has_social": true
+    "has_social": false
   }
 }

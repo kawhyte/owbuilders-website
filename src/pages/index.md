@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Home & Commercial Architectural Designs
+  title: Architectural Designs
   section_id: hero
   component: HeroBlock
   content: "### If you can dream it, We can make it happen."

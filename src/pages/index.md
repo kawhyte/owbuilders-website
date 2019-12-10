@@ -6,7 +6,10 @@ sections:
   title: Architectural Designs
   section_id: hero
   component: HeroBlock
-  content: "### If you can dream it, We can make it happen."
+  content: |-
+    ### ![](/images/13.jpg)
+
+    ### If you can dream it, We can make it happen.
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work

@@ -2,7 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 
 import {Link, safePrefix} from '../utils';
-
+const isLabel = 'Style Guide';
 export default class Header extends React.Component {
     render() {
         return (
@@ -30,7 +30,18 @@ export default class Header extends React.Component {
                       <ul className="menu">
                         {_.map(_.get(this.props, 'pageContext.menus.main'), (item, item_idx) => (
                         <li key={item_idx} className={'menu-item ' + ((_.get(this.props, 'pageContext.url') === _.get(item, 'url')) ? ' current-menu-item' : '')}>
-                          <Link to={safePrefix(_.get(item, 'url'))}>{_.get(item, 'title')}</Link>
+                          {console.log("Top one " + isLabel)}
+                          {console.log("Top two " + item.title)}
+                          {console.log("Top three " + isLabel.localeCompare(item.title))}
+
+                          { isLabel.localeCompare(item.title) ===1 ?
+                          <Link to={safePrefix(_.get(item, 'url'))}>{_.get(item, 'title')}</Link>:
+                            console.log("nope")
+                             
+                          }
+                          
+                          
+                          
                         </li>
                         ))}
                       </ul>

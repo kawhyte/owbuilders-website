@@ -14,7 +14,7 @@ sections:
   component: PortfolioBlock
   subtitle: If you can dream it, We can make it happen.
   layout_style: mosaic
-  num_projects_displayed: 6
+  num_projects_displayed: '4'
   view_all_text: View All
   view_all_url: portfolio/index.html
 - type: servicesblock

@@ -3,10 +3,10 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: 'Welcome to OWBuilders. '
+  title: If you can dream it, We can make it happen.
   section_id: hero
   component: HeroBlock
-  content: Want to build your own home? If you can dream it ... We can make it happen
+  content: 'Home & Commercial Designs | BluePrints | Contractors '
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work

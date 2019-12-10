@@ -6,8 +6,7 @@ sections:
   title: 'Welcome to OWBuilders. '
   section_id: hero
   component: HeroBlock
-  content: Want to build your own home? You’ve landed on the right site! IF YOU DREAM
-    IT...WE CAN MAKE IT HAPPEN
+  content: Want to build your own home? If you can dream it ... We can make it happen
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work

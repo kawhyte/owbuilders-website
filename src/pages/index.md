@@ -9,12 +9,12 @@ sections:
   content: "### for Residential and Commercial Buildings"
 - type: portfolioblock
   template: portfolioblock
-  title: Recent Work
+  title: Our Work
   section_id: latest-projects
   component: PortfolioBlock
   subtitle: If you can dream it, We can make it happen.
   layout_style: mosaic
-  num_projects_displayed: '4'
+  num_projects_displayed: '7'
   view_all_text: View All
   view_all_url: portfolio/index.html
 - type: servicesblock

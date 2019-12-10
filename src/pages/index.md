@@ -3,10 +3,10 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Architects & Remodelers
+  title: Architects | Remodelers
   section_id: hero
   component: HeroBlock
-  content: "### for Residential and Commercial Buildings"
+  content: "### for Residential & Commercial Buildings"
 - type: portfolioblock
   template: portfolioblock
   title: Our Work

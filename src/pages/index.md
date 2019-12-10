@@ -12,7 +12,7 @@ sections:
   title: Recent Work
   section_id: latest-projects
   component: PortfolioBlock
-  subtitle: An optional subtitle of the section
+  subtitle: If you can dream it, We can make it happen.
   layout_style: mosaic
   num_projects_displayed: 6
   view_all_text: View All

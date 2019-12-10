@@ -3,11 +3,11 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Hi, I'm Omar. Welcome to OWBuilders.
+  title: 'Welcome to OWBuilders. '
   section_id: hero
   component: HeroBlock
-  content: Want to build your own home? You’ve landed on the right site! (The recommended
-    length is one to three sentences, but can be changed as you prefer.)
+  content: Want to build your own home? You’ve landed on the right site! IF YOU DREAM
+    IT...WE CAN MAKE IT HAPPEN
 - type: portfolioblock
   template: portfolioblock
   title: Recent Work

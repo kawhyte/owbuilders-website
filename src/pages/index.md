@@ -6,7 +6,7 @@ sections:
   title: Architectural Project Management
   section_id: hero
   component: HeroBlock
-  content: "### for Residential & Commercial Buildings"
+  content: "### ![](/images/omar-logo1.jpg)     for Residential & Commercial Buildings"
 - type: servicesblock
   template: servicesblock
   title: What We Do

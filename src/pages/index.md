@@ -12,7 +12,7 @@ sections:
   title: What We Do
   section_id: services
   component: ServicesBlock
-  subtitle: " working with both clients and contractors to develop plans, set schedules
+  subtitle: " Working with both clients and contractors to develop plans, set schedules
     and timelines, and complete projects according to time and budget expectations."
   serviceslist:
   - title: Presentation

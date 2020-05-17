@@ -1,8 +1,8 @@
 ---
-title: Project Title 7
+title: Project Title 1
 subtitle: Optional Project Subtitle
 date: 2018-01-15
-thumb_img_path: "/images/tumblr_mcum2cCc0s1rcncemo13_r2_1280.jpg"
+thumb_img_path: "/images/bay1.png"
 content_img_path: "/images/tumblr_mcum2cCc0s1rcncemo13_r2_1280.jpg"
 template: project
 

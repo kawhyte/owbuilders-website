@@ -10,4 +10,4 @@ subtitle: "We’re here to help and answer any question you might have. We look 
 img_path: "/images/contact-01.png"
 
 ---
-Hi there! Thank you so much for your interest in working together. Please fill the contact form below.
+2 We’re here to help and answer any question you might have. We look forward to hearing from you 🙂

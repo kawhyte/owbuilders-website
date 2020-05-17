@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Architects | Remodelers
+  title: Architectural Project Management
   section_id: hero
   component: HeroBlock
   content: "### for Residential & Commercial Buildings"

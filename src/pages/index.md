@@ -9,11 +9,11 @@ sections:
   content: "### for Residential & Commercial Buildings"
 - type: servicesblock
   template: servicesblock
-  title: " working with both clients and contractors to develop plans, set schedules
-    and timelines, and complete projects according to time and budget expectations."
+  title: What We Do
   section_id: services
   component: ServicesBlock
-  subtitle: An optional subtitle of the section
+  subtitle: " working with both clients and contractors to develop plans, set schedules
+    and timelines, and complete projects according to time and budget expectations."
   serviceslist:
   - title: Presentation
     content: Drawings made to articulate and communicate design concept or proposal;

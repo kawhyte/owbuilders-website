@@ -15,9 +15,8 @@ sections:
   subtitle: An optional subtitle of the section
   serviceslist:
   - title: Presentation
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
-      cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla
-      tortor at, pulvinar orci.
+    content: Drawings made to articulate and communicate design concept or proposal;
+      such as for an exhibition, review, or publication.
   - title: Drafting
     content: "Drafting is the visual language of industry, construction and engineering.
       Drafting services will employ any number of professional and experience drafters.

@@ -1,9 +1,9 @@
 ---
-title: Project Title 1
+title: Jones Residence
 subtitle: Optional Project Subtitle
-date: 2018-01-15
+date: 2012-01-15T05:00:00Z
 thumb_img_path: "/images/bay1.png"
-content_img_path: "/images/bay2.png"
+content_img_path: "/images/bay2-1.png"
 template: project
 
 ---

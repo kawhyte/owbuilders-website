@@ -25,11 +25,10 @@ sections:
       and will work across many industries including industrial design, surveying,
       engineering, construction, mining, and materials handling.
   - title: Working Drawing
-    content: "Working drawings provide graphical, and dimensioned information. This
-      data is used by the contractors to build their work or help suppliers to create
-      parts of the work or install/assemble the components. \n\nWorking drawing can
-      be in the form of structural drawings, architectural drawings, civil drawings,
-      electrical drawings and mechanical drawings and so forth."
+    content: Working drawings provide graphical, and dimensioned information. This
+      data is used by the contractors to build their work. Working drawing can be
+      in the form of structural drawings, architectural drawings, civil drawings,
+      electrical drawings and mechanical drawings.
   - content: Project management is a critical practice that applies knowledge of process,
       skills, tools, deliverables, and techniques to project activities to ensure
       a solid path to project success by meeting goals and requirements.

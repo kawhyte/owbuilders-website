@@ -18,21 +18,21 @@ sections:
   - title: Presentation
     content: Drawings made to articulate and communicate design concept or proposal;
       such as for an exhibition, review, or publication.
+  - content: Project management is a critical practice that applies knowledge of process,
+      skills, tools, deliverables, and techniques to project activities to ensure
+      a solid path to project success by meeting goals and requirements.
+    title: Project Management
+  - title: Working Drawing
+    content: Working drawings provide graphical, and dimensioned information. This
+      data is used by the contractors to build their work. Working drawing can be
+      in the form of structural drawings, architectural drawings, civil drawings,
+      electrical drawings and mechanical drawings.
   - title: Drafting
     content: Drafting is the visual language of industry, construction and engineering.
       Drafting services will be able to provide technical drawings for any purpose,
       including unit developments, extensions, alterations, and Local permit applications
       and will work across many industries including industrial design, surveying,
       engineering, construction, mining, and materials handling.
-  - title: Working Drawing
-    content: Working drawings provide graphical, and dimensioned information. This
-      data is used by the contractors to build their work. Working drawing can be
-      in the form of structural drawings, architectural drawings, civil drawings,
-      electrical drawings and mechanical drawings.
-  - content: Project management is a critical practice that applies knowledge of process,
-      skills, tools, deliverables, and techniques to project activities to ensure
-      a solid path to project success by meeting goals and requirements.
-    title: Project Management
 - type: portfolioblock
   template: portfolioblock
   title: Our Work

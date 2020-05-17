@@ -19,12 +19,11 @@ sections:
     content: Drawings made to articulate and communicate design concept or proposal;
       such as for an exhibition, review, or publication.
   - title: Drafting
-    content: "Drafting is the visual language of industry, construction and engineering.
-      Drafting services will employ any number of professional and experience drafters.
-      \n\nDrafting services will be able to provide technical drawings for any purpose,
-      including unit developments, extensions, alterations, and permit applications
+    content: Drafting is the visual language of industry, construction and engineering.
+      Drafting services will be able to provide technical drawings for any purpose,
+      including unit developments, extensions, alterations, and Local permit applications
       and will work across many industries including industrial design, surveying,
-      engineering, construction, mining, and materials handling. "
+      engineering, construction, mining, and materials handling.
   - title: Working Drawing
     content: "Working drawings provide graphical, and dimensioned information. This
       data is used by the contractors to build their work or help suppliers to create

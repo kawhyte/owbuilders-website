@@ -30,9 +30,9 @@ sections:
       parts of the work or install/assemble the components. \n\nWorking drawing can
       be in the form of structural drawings, architectural drawings, civil drawings,
       electrical drawings and mechanical drawings and so forth."
-  - content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
-      sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
-      efficitur urna viverra et.
+  - content: Project management is a critical practice that applies knowledge of process,
+      skills, tools, deliverables, and techniques to project activities to ensure
+      a solid path to project success by meeting goals and requirements.
     title: Project Management
 - type: portfolioblock
   template: portfolioblock

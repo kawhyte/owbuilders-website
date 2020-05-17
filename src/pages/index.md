@@ -7,16 +7,6 @@ sections:
   section_id: hero
   component: HeroBlock
   content: "### for Residential & Commercial Buildings"
-- type: portfolioblock
-  template: portfolioblock
-  title: Our Work
-  section_id: latest-projects
-  component: PortfolioBlock
-  subtitle: If you can dream it, We can make it happen.
-  layout_style: mosaic
-  num_projects_displayed: '7'
-  view_all_text: View All
-  view_all_url: portfolio/index.html
 - type: servicesblock
   template: servicesblock
   title: What We Do
@@ -24,21 +14,31 @@ sections:
   component: ServicesBlock
   subtitle: An optional subtitle of the section
   serviceslist:
-  - title: Service Title
+  - title: Presentation
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
       cursus id molestie vel, maximus aliquet risus. Vivamus in nibh fringilla, fringilla
       tortor at, pulvinar orci.
-  - title: Service Title
+  - title: Drafting
     content: 'Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
       a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at, tincidunt
       ut tellus. Vivamus rhoncus mattis varius. '
-  - title: Service title
+  - title: Working Drawing
     content: Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis nunc
       non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-  - title: Service title
-    content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
+  - content: Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis justo,
       sit amet condimentum lorem nibh vel quam. Duis consectetur lorem ipsum, non
       efficitur urna viverra et.
+    title: Project Management
+- type: portfolioblock
+  template: portfolioblock
+  title: Our Work
+  section_id: latest-projects
+  component: PortfolioBlock
+  subtitle: If you can dream it, We can make it happen.
+  layout_style: mosaic
+  num_projects_displayed: 7
+  view_all_text: View All
+  view_all_url: portfolio/index.html
 - type: testimonialsblock
   template: testimonialsblock
   title: Testimonials

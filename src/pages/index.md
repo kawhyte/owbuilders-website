@@ -6,10 +6,7 @@ sections:
   title: Architectural Project Management
   section_id: hero
   component: HeroBlock
-  content: |-
-    ### for Residential & Commercial Buildings
-
-        <h1>Hello<h1>
+  content: "### for Residential & Commercial Buildings"
 - type: servicesblock
   template: servicesblock
   title: What We Do

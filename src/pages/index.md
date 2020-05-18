@@ -6,7 +6,7 @@ sections:
   title: Architectural Project Management
   section_id: hero
   component: HeroBlock
-  content: "### for Residential & Commercial Buildings![](/images/tumblr_mkn5cpROAA1rcncemo1_1280.jpg)"
+  content: "### for Residential & Commercial Buildings"
 - type: portfolioblock
   template: portfolioblock
   title: Our Work

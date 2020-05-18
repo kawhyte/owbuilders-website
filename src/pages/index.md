@@ -7,6 +7,16 @@ sections:
   section_id: hero
   component: HeroBlock
   content: "### for Residential & Commercial Buildings![](/images/tumblr_mkn5cpROAA1rcncemo1_1280.jpg)"
+- type: portfolioblock
+  template: portfolioblock
+  title: Our Work
+  section_id: latest-projects
+  component: PortfolioBlock
+  subtitle: If you can dream it, We can make it happen.
+  layout_style: mosaic
+  num_projects_displayed: 7
+  view_all_text: View All
+  view_all_url: portfolio/index.html
 - type: servicesblock
   template: servicesblock
   title: What We Do
@@ -33,16 +43,6 @@ sections:
       including unit developments, extensions, alterations, and Local permit applications
       and will work across many industries including industrial design, surveying,
       engineering, construction, mining, and materials handling.
-- type: portfolioblock
-  template: portfolioblock
-  title: Our Work
-  section_id: latest-projects
-  component: PortfolioBlock
-  subtitle: If you can dream it, We can make it happen.
-  layout_style: mosaic
-  num_projects_displayed: 7
-  view_all_text: View All
-  view_all_url: portfolio/index.html
 - type: testimonialsblock
   template: testimonialsblock
   title: Testimonials
